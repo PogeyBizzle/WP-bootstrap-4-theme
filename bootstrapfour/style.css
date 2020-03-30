@@ -1,0 +1,26 @@
+/*
+Theme Name: Bootstrap Four
+Author: Anthony Pirolli
+Text Domain: bootstrapfour
+ */
+
+body {
+    background-color: white;
+}
+
+li {
+    list-style-type: none;
+}
+li.bbp-header {
+    background-color: navy;
+    color: white;
+}
+
+#forums-list-0 > li.bbp-header {
+    background-color: black;
+}
+
+#forums-list-0 > li.bbp-footer {
+    background-color: black;
+}
+
